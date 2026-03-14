@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="left">👩‍💻 Meu espaço de desenvolvimento</h1>
 
-<!--
-**eduardarosa07/eduardarosa07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">
+Olá! Me chamo Eduarda Rosa e sou estudante de Sistemas de Informação na Universidade Estadual de Goiás - UEG.<br><br>
+Aqui você encontrará projetos acadêmicos e pessoais que desenvolvo durante meus estudos, representando meu processo de aprendizado e crescimento na área de tecnologia.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">🛠 Linguagens </h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
+</div>
+
+###
+
+
