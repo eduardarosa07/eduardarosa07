@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-Olá! Me chamo Eduarda Rosa e sou estudante de Sistemas de Informação na Universidade Estadual de Goiás - UEG.<br><br>
+Olá! Me chamo Eduarda Protazio e sou estudante de Sistemas de Informação na Universidade Estadual de Goiás - UEG.<br><br>
 Aqui você encontrará projetos acadêmicos e pessoais que desenvolvo durante meus estudos, representando meu processo de aprendizado e crescimento na área de tecnologia.
 </p>
 
