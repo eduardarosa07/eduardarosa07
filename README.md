@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👩🏻‍💻 Olá, eu sou a Eduarda!
+# 👩 Olá, eu sou a Eduarda!
 
 **Estudante de Sistemas de Informação na Universidade Estadual de Goiás (UEG)**
 
